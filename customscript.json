@@ -1,0 +1,7 @@
+{
+    "fileUris": ["https://raw.githubusercontent.com/shivamankit25/PowershellScripts/master/install_web.sh"],
+    "commandToExecute": "./install_web.sh"
+  }
+
+
+  
